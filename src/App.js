@@ -1670,10 +1670,7 @@ class App extends PureComponent {
     })
   }
 
-  //#endregion
-
-  // ---------------------------------------------------------------------------------------------- EXPLORER
-  //#region EXPLORER
+ 
 
   explorerOnSelectSeries = (files, explorerIndex) => {
     //console.log('explorerOnSelectSeries: ', files)
